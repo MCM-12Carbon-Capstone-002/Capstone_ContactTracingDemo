@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Capstone_ContactTracingDemo
 {// Not for production
+    //
     static class ProgramParrameters
     {
         public static int ContactTracingLength;
